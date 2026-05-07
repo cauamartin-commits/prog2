@@ -14,7 +14,6 @@ void inverterString(char *string) {
     }
 }
 
-
 int main() {
     char s1[] = "Vasco";
     inverterString(s1);
